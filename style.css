@@ -148,6 +148,6 @@ button[disabled] {
   }
 
   .settings {
-    width: 95%;
+    width: 70vh;
   }
 }

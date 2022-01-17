@@ -155,9 +155,8 @@ button[disabled] {
 }
 
 @media (max-width: 270px) {
-
   .settings {
-    max-width: 158px;
-    margin-left: 0px;
+    max-width: 200px;
+    margin: 0px;
   }
 }

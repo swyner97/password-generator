@@ -119,7 +119,8 @@ button[disabled] {
 }
 
 #length {
-  width: 60px;
+  max-width: 60px;
+  
 }
 
 .settings {

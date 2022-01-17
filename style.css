@@ -153,3 +153,11 @@ button[disabled] {
     margin-left: 25%;
   }
 }
+
+@media (max-width: 270px) {
+
+  .settings {
+    max-width: 158px;
+    margin-left: 0px;
+  }
+}

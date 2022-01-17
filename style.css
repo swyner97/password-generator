@@ -149,6 +149,7 @@ button[disabled] {
   }
 
   .settings {
-    max-width: 70vh;
+    max-width: 70vw;
+    margin-left: 25%;
   }
 }
